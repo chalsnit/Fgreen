@@ -438,7 +438,7 @@ h5,
 h6 a {
   clear: both;
   color: #2f0b6c;
-  font-family: "Frank Ruhl Libre", serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   text-decoration: none; }
 
@@ -489,7 +489,7 @@ blockquote {
   line-height: 1.625rem;
   color: #3f485d;
   position: relative;
-  font-family: "Frank Ruhl Libre", serif; }
+  font-family: "Roboto", sans-serif; }
 
 blockquote:before {
   top: 5px;
@@ -3419,7 +3419,7 @@ div#scrollbar::-webkit-scrollbar-thumb {
     .page-header .page-header-area .page-header-content .breadcamp {
       justify-content: center; }
       .page-header .page-header-area .page-header-content .breadcamp li {
-        font-family: "Frank Ruhl Libre", serif;
+        font-family: "Roboto", sans-serif;
         padding-right: 20px; }
         .page-header .page-header-area .page-header-content .breadcamp li a {
           color: #2f0b6c; }
@@ -3527,7 +3527,7 @@ div#scrollbar::-webkit-scrollbar-thumb {
           text-align: left;
           outline: none;
           font-weight: 500;
-          font-family: "Frank Ruhl Libre", serif;
+          font-family: "Roboto", sans-serif;
           border-bottom: 1px solid #ecf0f3; }
           .mobile-menu .menu .mobile-menu-area .mobile-menu-area-inner .m-menu li a::after {
             right: 0; }
@@ -3558,7 +3558,7 @@ div#scrollbar::-webkit-scrollbar-thumb {
         border-radius: 0; }
         .mobile-menu .menu .mobile-menu-area .mobile-menu-area-inner .mobile-search input:focus, .mobile-menu .menu .mobile-menu-area .mobile-menu-area-inner .mobile-search input::placeholder {
           color: #2f0b6c;
-          font-family: "Frank Ruhl Libre", serif; }
+          font-family: "Roboto", sans-serif; }
       .mobile-menu .menu .mobile-menu-area .mobile-menu-area-inner .mobile-search button {
         top: 0;
         right: 0;
@@ -3970,13 +3970,13 @@ div#scrollbar::-webkit-scrollbar-thumb {
         background: #84e18a; }
       .campaign-section .section-wrapper .pagination-container .pagination-slider .swiper-slide-thumb-active .post-item p {
         color: #84e18a; }
-  @media (min-width: 768px) {
+  /* @media (min-width: 768px) {
     .campaign-section.style-two:after {
       top: 0;
       right: 0;
       height: 100%;
       width: 437px;
-      background: url(../../assets/images/campaign/shape/01.jpg) no-repeat; } }
+      background: url(../../assets/images/campaign/shape/01.jpg) no-repeat; } } */
 @media (max-width: 1399px) and (min-width: 1200px) {
   .campaign-section.style-two:after {
     right: -165px; } }
@@ -4239,7 +4239,7 @@ div#scrollbar::-webkit-scrollbar-thumb {
     font-size: 16px;
     line-height: 30px;
     color: #fff;
-    font-family: "Frank Ruhl Libre", serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-style: normal;
     margin: 30px 0; }
@@ -4316,7 +4316,7 @@ div#scrollbar::-webkit-scrollbar-thumb {
             color: #16e18a; }
           .campaign-single .section-wrapper .tab-section .tab-content .tab-item.donors .post-item .post-inner .post-content a {
             color: #2f0b6c;
-            font-family: "Frank Ruhl Libre", serif;
+            font-family: "Roboto", sans-serif;
             font-size: 20px; }
           .campaign-single .section-wrapper .tab-section .tab-content .tab-item.donors .post-item .post-inner .post-content p {
             margin: 0; }
@@ -5563,7 +5563,7 @@ div#scrollbar::-webkit-scrollbar-thumb {
   .blog-page .section-wrapper .blog.blog-single .section-wrapper .post-item .post-inner .post-content .content-part .entry-content blockquote p {
     color: #84e18a;
     font-weight: 700;
-    font-family: "Frank Ruhl Libre", serif; }
+    font-family: "Roboto", sans-serif; }
   .blog-page .section-wrapper .blog.blog-single .section-wrapper .post-item .post-inner .post-content .content-part .entry-content ul {
     width: 100%;
     float: left;
@@ -5687,7 +5687,7 @@ div#scrollbar::-webkit-scrollbar-thumb {
       color: #3f485d;
       display: inline-block;
       margin-bottom: 5px;
-      font-family: "Frank Ruhl Libre", serif; }
+      font-family: "Roboto", sans-serif;}
     @media (max-width: 575px) {
       .blog-page .section-wrapper .blog.blog-single .section-wrapper .comments .comment-list .comment .com-content .com-title .reply {
         margin-bottom: 10px;
@@ -6028,7 +6028,7 @@ div#scrollbar::-webkit-scrollbar-thumb {
       background: #57cbe1;
       width: 100%;
       padding: 30px;
-      font-family: "Frank Ruhl Libre", serif; }
+      font-family: "Roboto", sans-serif; }
       @media (min-width: 992px) {
         .footer-section .footer-top .top .post-item {
           width: calc(100% / 2); } }
@@ -6120,7 +6120,7 @@ div#scrollbar::-webkit-scrollbar-thumb {
     justify-content: center;
     flex-wrap: wrap-reverse;
     align-items: center;
-    font-family: "Frank Ruhl Libre", serif;
+    font-family: "Roboto", sans-serif;
     padding: 20px 0; }
     .footer-section .footer-bottom .section-wrapper .left, .footer-section .footer-bottom .section-wrapper .right {
       width: 100%; }
